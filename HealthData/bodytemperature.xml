@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BodyTemperature>
+<Temperature age="1,2,3,4,5,6,7,8,9,10,11,12,14,15">
+<temperature>97.9,98,99</temperature>
+</Temperature>
+<Temperature age="16-65">
+<temperature>97,98,99</temperature>
+</Temperature>
+<Temperature age="&gt;=66">
+<temperature>&lt;98.6</temperature>
+</Temperature>
+</BodyTemperature>

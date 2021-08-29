@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BloodPressure>
+<BloodPressure age="15,16,17,18">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>105,106,107,108,109,110,111,112,113,114,115,116,117</Systolic>
+<Diastolic>73,74,75,76,77</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>118,119,120,121,122,123,124,125</Systolic>
+<Diastolic>78,79,80,81,82,83,84,85</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>126,127,128,129,130,131,132,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150</Systolic>
+<Diastolic>86,87,88,89,90,91,92,93,94,95,96</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=151</Systolic>
+<Diastolic>&gt;=96</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>105,106,107,108,109,110,111,112,113,114,115</Systolic>
+<Diastolic>71,72,73,74,75,76,77</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>116,117,118,119,120,121,122,123,124,125</Systolic>
+<Diastolic>78,79,80,81,82,83,84,85</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>126,127,128,129,130,131,132,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150</Systolic>
+<Diastolic>86,87,88,89,90,91,92,93</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=151</Systolic>
+<Diastolic>&gt;=94</Diastolic>
+</BloodPressure>
+<BloodPressure age="19,20,21,22,23,24">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>108,109,110,111,112,113,114,115,116,117,118,119</Systolic>
+<Diastolic>75,76,77,78</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>120,121,122,123,124,125,126,127,129,130,131,132,134,135</Systolic>
+<Diastolic>79,80,81,82,83,84,85,86</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151</Systolic>
+<Diastolic>87,88,89,90,91,92,93,94</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=152</Systolic>
+<Diastolic>=&gt;95</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>106,107,108,109,110,111,112,113,114,115,116</Systolic>
+<Diastolic>74,75,76,77,78</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133</Systolic>
+<Diastolic>79,80,81,82,83,84</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150</Systolic>
+<Diastolic>85,86,87,88,89,90,91,92,93,94</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=151</Systolic>
+<Diastolic>&gt;=95</Diastolic>
+</BloodPressure>
+<BloodPressure age="25,26,27,28,29">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>109,110,111,112,113,114,115,116,117,118,119,120</Systolic>
+<Diastolic>76,77,78,79</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138</Systolic>
+<Diastolic>80,81,82,83,84,85,86,87,88</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>139,140,141,142,143,144,145,146,147,148,149,150,152,153</Systolic>
+<Diastolic>89,90,91,92,93,94,95</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=154</Systolic>
+<Diastolic>&gt;=96</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>108,109,110,111,112,113,114,115,116,117,118,119</Systolic>
+<Diastolic>74,75,76,77,78,79,80,81,82,83,84</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135</Systolic>
+<Diastolic>85,86,87,88,89</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152</Systolic>
+<Diastolic>90,91,92,93</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=153</Systolic>
+<Diastolic>&gt;=94</Diastolic>
+</BloodPressure>
+<BloodPressure age="30,31,32,33,34,35">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>110,111,112,113,114,115,116,117,118,119,120,121</Systolic>
+<Diastolic>75,76,77,78,79,80</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>122,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,140</Systolic>
+<Diastolic>81,82,83,84,85,83,84,85,86,87,88,89</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>141,142,143,144,145,146,147,148,149,150,151,152,153,154</Systolic>
+<Diastolic>90,91,92,93,94</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=155</Systolic>
+<Diastolic>&gt;=95</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>108,109,110,111,112,113,114,115,116,117,118,119,120</Systolic>
+<Diastolic>71,72,73,74,75,76,77,78,79</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>121,122,123,124,125,126,127,129,130,131,132,133,134,135,136,137,138</Systolic>
+<Diastolic>80,81,82,83,84</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>139,140,141,142,143,144,145,146,147,148,149,150,151,152,153</Systolic>
+<Diastolic>85,86,87,88,89,90,91,92,93,94</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=154</Systolic>
+<Diastolic>&gt;=95</Diastolic>
+</BloodPressure>
+<BloodPressure age="36,37,38,39">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>111,112,113,114,115,116,117,118,119,120,121,122</Systolic>
+<Diastolic>78,79,80,81</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>123,124,125,126,127,128,129,130,131,132,134,135,136,137,138,139,140,141</Systolic>
+<Diastolic>82,83,84,85,86,87,88,89,90</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>142,143,144,145,146,147,148,149,150,152,153,154,155</Systolic>
+<Diastolic>91,92,93,94,95</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=156</Systolic>
+<Diastolic>&gt;=96</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>109,110,111,112,113,114,115,116,117,118,119,120,121</Systolic>
+<Diastolic>75,76,77,78,79,80,81</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>122,123,124,125,126,127,128,129,130,131,132,134,135,136,137,138,139,140</Systolic>
+<Diastolic>82,83,84,85,86,87</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155</Systolic>
+<Diastolic>88,89,90</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=156</Systolic>
+<Diastolic>&gt;=91</Diastolic>
+</BloodPressure>
+<BloodPressure age="40,41,42,43,44,45">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>112,113,114,115,116,117,118,119,120,121,122,123,124</Systolic>
+<Diastolic>79,80,81,82</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>,125,126,127,128,129,130,131,132,134,135,136,137,138,139,140,141,142</Systolic>
+<Diastolic>83,84,85,86,87,88,89,90,91,92,93</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>143,144,145,146,147,148,149,150,152,153,154,155,156</Systolic>
+<Diastolic>91,92,93,94,95</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=157</Systolic>
+<Diastolic>&gt;=96</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>110,111,112,113,114,115,116,117,118,119,120,121,122,123</Systolic>
+<Diastolic>75,76,77,78.79.80,81</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>124,125,126,127,128,129,130,131,132,134,135,136,137,138,139</Systolic>
+<Diastolic>82,83,84,85,86,87,88,89,90,91,92</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>140,141,142,143,144,145,146,147,148,149,150</Systolic>
+<Diastolic>,93,94,95,96</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=151</Systolic>
+<Diastolic>&gt;=97</Diastolic>
+</BloodPressure>
+<BloodPressure age="46,47,48,49,50">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>115,116,117,118,119,120,121,122,123,124,125,126</Systolic>
+<Diastolic>80,81,82,83</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>127,128,129,130,131,132,134,135,136,137,138,139,140,141,142,143,144</Systolic>
+<Diastolic>84,85,86,87,89,90,91,92,93</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160</Systolic>
+<Diastolic>94,95,96</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;160</Systolic>
+<Diastolic>&gt;96</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>113,114,115,116,117,118,119,120,121,122,123,124,125</Systolic>
+<Diastolic>75,76,77,78,79,80,81,82,83,84</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>126,127,128,129,130,131,132,134,135,136,137,138,139,140,141,142,143,144</Systolic>
+<Diastolic>85,86,87,88,89,90,91,92</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>145,146,147,148,149,150,152,153,154,155</Systolic>
+<Diastolic>93,94,95</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=156</Systolic>
+<Diastolic>&gt;=96</Diastolic>
+</BloodPressure>
+<BloodPressure age="51,52,53,54,55">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>116,117,118,119,120,121,122,123,124,125,126,127,128</Systolic>
+<Diastolic>81,82,83,84</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>129,130,131,132,134,135,136,137,138,139,140,141,142,143,144,146</Systolic>
+<Diastolic>85,86,87,88,89,90,91,92,93</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>146,147,148,149,150,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170</Systolic>
+<Diastolic>94,95</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=171</Systolic>
+<Diastolic>&gt;=96</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>113,114,115,116,117,118,119,120,121,122,123,124,125,126,127</Systolic>
+<Diastolic>79,80,81,82</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>128,129,130,131,132,134,135,136,137,138,139,140,141,142,143</Systolic>
+<Diastolic>83,84,85,86,87,88,89,90,91,92,93,94</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171</Systolic>
+<Diastolic>95,96</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=172</Systolic>
+<Diastolic>&gt;=97</Diastolic>
+</BloodPressure>
+<BloodPressure age="56,57,58,59,60,61">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>118,119,120,121,122,123,124,125,126,127,128,129,130</Systolic>
+<Diastolic>82,83,84,85</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>131,132,134,135,136,137,138,139,140,141,142,143,144,145,146</Systolic>
+<Diastolic>86,87,88,89,90,91,92,93,94</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180</Systolic>
+<Diastolic>95,96</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=181</Systolic>
+<Diastolic>&gt;=97</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>116,117,118,119,120,121,122,123,124,125,126,127,128,129</Systolic>
+<Diastolic>82,83,84</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>130,131,132,134,135,136,137,138,139,140,141,142,143,144,145</Systolic>
+<Diastolic>85,86,87,88,89,90,91,92,93,94</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177</Systolic>
+<Diastolic>94,95,96,97,98</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=178</Systolic>
+<Diastolic>&gt;=99</Diastolic>
+</BloodPressure>
+<BloodPressure age="62,63,64,&gt;=65">
+<Gender>male</Gender>
+<Type>low</Type>
+<Systolic>121,122,123,124,125,126,127,128,129,130,131,132,133</Systolic>
+<Diastolic>83,84,85,86</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>134,135,136,137,138,139,140,141,142,143,144,145,146,147,148</Systolic>
+<Diastolic>87,88,89,90,91,92,93,94,95</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190</Systolic>
+<Diastolic>96,97,98,99,100</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;191</Systolic>
+<Diastolic>&gt;=101</Diastolic>
+<Gender>female</Gender>
+<Type>low</Type>
+<Systolic>121,122,123,124,125,126,127,128,129,130,131,132,133</Systolic>
+<Diastolic>85,86</Diastolic>
+<Type>ideal blood pressure</Type>
+<Systolic>134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149</Systolic>
+<Diastolic>87,88,89,90,91,92,93,94,95,96,97</Diastolic>
+<Type>pre-high blood pressure</Type>
+<Systolic>149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187</Systolic>
+<Diastolic>98,99,100</Diastolic>
+<Type>hig blood pressure</Type>
+<Systolic>&gt;=189</Systolic>
+<Diastolic>&gt;=101</Diastolic>
+</BloodPressure>
+</BloodPressure>
